@@ -1,12 +1,12 @@
-#include<Keyboard.h>
+ #include<Keyboard.h>
 
 //config buttons
 
 int ATK_BTN = 7;
-int W_BTN = 6;
-int A_BTN = 5;
-int S_BTN = 4;
-int D_BTN = 3;
+int W_BTN = 4;
+int A_BTN = 3;
+int S_BTN = 6;
+int D_BTN = 5;
 
 //config button states
 
